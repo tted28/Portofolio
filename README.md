@@ -1,2 +1,2 @@
-# Portfolio-Riski-Kurniawan
+# Portfolio-tedy
 jika mengclone ijin dahulu ya
